@@ -32,8 +32,6 @@
 ## Connect with me
 <a href="https://www.linkedin.com/in/ronit-shternfeld-3a95341b6/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
 <!---
 ronitSht/ronitSht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
